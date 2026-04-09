@@ -1,6 +1,6 @@
 ---
 title: "AI 에이전트를 회사처럼 굴려봤습니다 | Paperclip 실전 후기"
-date: 2026-04-07 12:00:00 +0900
+date: 2026-04-07 00:00:00 +0900
 categories: [AI Engineering, PaperClip]
 tags: []
 ---
