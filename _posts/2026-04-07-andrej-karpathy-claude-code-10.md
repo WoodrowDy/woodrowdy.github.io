@@ -5,7 +5,6 @@ categories: [Lab, claudecode&obsidian]
 tags: []
 ---
 
-```markdown
 ## TL;DR
 
 Andrej Karpathy가 공유한 "RAM Knowledge Base" 아이디어는 벡터 DB/임베딩 없이 마크다운 파일과 Claude Code만으로 개인 지식 시스템을 구축하는 방법이다. [01:48] Obsidian 볼트 + 마크다운 링크 기반 인덱싱으로 토큰 사용량을 95% 줄이고, [05:16] 위키 페이지 간 관계를 자동으로 구성해 "검색 가능한 세컨드 브레인"을 만든다. 단, 수십만 건 이상의 대규모 문서에는 전통적인 RAG가 더 적합하다. [18:23]
@@ -82,4 +81,3 @@ Andrej Karpathy가 공유한 "RAM Knowledge Base" 아이디어는 벡터 DB/임�
 
 > 본 글은 [Andrej Karpathy 덕분에 모두의 Claude Code가 10배 강해졌습니다](https://www.youtube.com/watch?v=nldkPgp3aIA) (채널: Tech Bridge)을 시청 후 작성한 학습 노트입니다.  
 > 영상의 모든 권리는 원저작자에게 있습니다.
-```
